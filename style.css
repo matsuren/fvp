@@ -1,0 +1,5 @@
+.jumbotron {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background: rgb(36,246,249);
+  background: linear-gradient(135deg, rgba(36,246,249,1) 0%, rgba(253,187,45,1) 100%);
+}
